@@ -1,0 +1,13 @@
+Package: PCH4GeneralPed
+Type: Package
+Title: Principal Components of Heritability for High Dimension
+        Quantitative Traits and General Pedigrees
+Version: 1.0
+Date: 2012-07-29
+Author: Karim Oualkacha
+Maintainer: Karim Oualkacha <oualkacha.karim@uqam.ca>
+Description: package for the calculation of principal components of heritability for high dimension quantitative traits and general pedigrees.
+License: GPL (>= 2)
+Depends: kinship2
+NeedsCompilation: no
+Packaged: 2015-07-01 01:18:49 UTC; karimoualkacha
